@@ -21,12 +21,20 @@
 
 
 
+ * Запуск и отработка тераформ плейбука:
+   
+![alt text](https://github.com/AntonKurapov66/load-balancer-hw/tree/main/img/scr_1.PNG)
+![alt text](https://github.com/AntonKurapov66/load-balancer-hw/tree/main/img/scr_4.PNG)
 
-![alt text](https://github.com/AntonKurapov66/backup_hw/blob/main/img/01.PNG)
-нужно было исключить только скрытые ДИРЕКТОРИИ , скрытые файлы резерному копированию подлежат.
+* Скриншот статуса балансировщика и целевой группы.
+![alt text](https://github.com/AntonKurapov66/load-balancer-hw/tree/main/img/scr_2.PNG)
+![alt text](https://github.com/AntonKurapov66/load-balancer-hw/tree/main/img/scr_3.PNG)
+
+* Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.
+![alt text](https://github.com/AntonKurapov66/load-balancer-hw/tree/main/img/scr_5.PNG)
 
 
 
-скрипт: https://github.com/AntonKurapov66/backup_hw/blob/main/fail_hw/reserve.sh
 
-crontab : https://github.com/AntonKurapov66/backup_hw/blob/main/fail_hw/crontab.txt
+terraform playbook: https://github.com/AntonKurapov66/load-balancer-hw/tree/main/fail-hw/main.tf
+
