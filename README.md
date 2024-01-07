@@ -23,15 +23,15 @@
 
  * Запуск и отработка тераформ плейбука:
    
-![alt text](https://github.com/AntonKurapov66/load-balancer-hw/tree/main/img/scr_1.PNG)
-![alt text](https://github.com/AntonKurapov66/load-balancer-hw/tree/main/img/scr_4.PNG)
+![alt text](https://github.com/AntonKurapov66/load-balancer-hw/blob/main/img/scr_1.PNG)
+![alt text](https://github.com/AntonKurapov66/load-balancer-hw/blob/main/img/scr_4.PNG)
 
 * Скриншот статуса балансировщика и целевой группы.
-![alt text](https://github.com/AntonKurapov66/load-balancer-hw/tree/main/img/scr_2.PNG)
-![alt text](https://github.com/AntonKurapov66/load-balancer-hw/tree/main/img/scr_3.PNG)
+![alt text](https://github.com/AntonKurapov66/load-balancer-hw/blob/main/img/scr_2.PNG)
+![alt text](https://github.com/AntonKurapov66/load-balancer-hw/blob/main/img/scr_3.PNG)
 
 * Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.
-![alt text](https://github.com/AntonKurapov66/load-balancer-hw/tree/main/img/scr_5.PNG)
+![alt text](https://github.com/AntonKurapov66/load-balancer-hw/blob/main/img/scr_5.PNG)
 
 
 
