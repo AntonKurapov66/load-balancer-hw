@@ -36,5 +36,5 @@
 
 
 
-terraform playbook: https://github.com/AntonKurapov66/load-balancer-hw/tree/main/fail-hw/main.tf
+terraform playbook: https://github.com/AntonKurapov66/load-balancer-hw/blob/main/fail-hw/main.tf
 
